@@ -1,4 +1,4 @@
-Hand Gesture Recognition
+ # Hand Gesture Recognition
 
 Classifies hand gestures using **HOG + SVM**.
 
